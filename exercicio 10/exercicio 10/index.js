@@ -1,0 +1,5 @@
+const vagas = []
+
+function listarVagas(){
+    
+}
