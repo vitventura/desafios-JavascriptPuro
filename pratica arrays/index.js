@@ -73,24 +73,7 @@ let opcao = ""
  }while(opcao !== 3)
  
 
- let cartas = []
- let opcao = ""
-
- do{
-  
-  opcao = prompt("\n.1adicionar cartas" + cartas.length + "\n" +
-  "\n.2puxar carta" + "\n.3 sair"  )
-
-switch(opcao){
-case "1":
-let adicionarCarta = prompt("qual o nome da carra a ser adicionada?")
-cartas.push(adicionarCarta)
-break
-case "2":
-let puxarCarta = cartas.shift()
-alert(puxarCarta + "voce foi removido...")
-}
-  }while(opcao !== 3)
+ 
 
   let name = "prop"
 objeto[name] = "Olá, Mundo!"

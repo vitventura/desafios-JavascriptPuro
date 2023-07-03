@@ -58,13 +58,6 @@ numero += "->" + numeroUsado + "*" + i + "=" + (numeroUsado * i);
 alert("o resultado e:" + numeroUsado + "\n\n" + numero)
 
 
-let palavra = prompt("informe um numero:")
-let palavraInvertida = ""
-vitor
-for(let i = palavra.length -1; i >= 0; i--){
-  palavraInvertida += palavra[i]
-}
-console.log(palavraInvertida)
 
 
 
