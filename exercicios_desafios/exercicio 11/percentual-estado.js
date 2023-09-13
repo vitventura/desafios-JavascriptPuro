@@ -6,7 +6,8 @@ MG – R$29.229,88
 ES – R$27.165,48
 Outros – R$19.849,53
 
-Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora. */
+Escreva um programa na linguagem que desejar onde calcule o percentual
+ de representação que cada estado teve dentro do valor total mensal da distribuidora. */
 
 const dados = [{
      estado: 'SP', valor: 67836.43 ,

@@ -73,11 +73,16 @@ let opcao = ""
  }while(opcao !== 3)
  
 
- 
+ */
 
-  let name = "prop"
-objeto[name] = "Olá, Mundo!"
-objeto.prop === objeto[name]
-let funcao = "executar"
-objeto[funcao]()*/
+//como achar o maior valor de um elemento em um array sem usar funçoes
+var arr = [1, 2, 3]
+let itens = arr[0]
+arr.forEach((item) =>{
+   if(item > itens){
+     itens = item
+   }
+})
+console.log({arr, itens})
+
 

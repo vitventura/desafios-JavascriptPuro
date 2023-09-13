@@ -1,5 +1,0 @@
-const vagas = []
-
-function listarVagas(){
-    
-}

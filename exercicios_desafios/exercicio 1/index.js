@@ -40,10 +40,17 @@ const sobreNome = prompt("qual o seu sobrenome?")
 const campoDeEstudo = prompt("qual o seu campo de estudo?")
 const aniversario = prompt("qual sua data de aniversario?")
 
+const infoPessoal = {
+    nome : nome,
+}
+
+
 alert(
     "\n primeiro nome:" + nome +
     "\n sobreNome:" + sobreNome +
     "\n campo De Estudo:" + campoDeEstudo +
     "\n data de aniversario:" + aniversario 
 )
+
+console.log({nome, sobreNome, campoDeEstudo, aniversario})
 
