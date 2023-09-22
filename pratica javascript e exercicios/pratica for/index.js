@@ -6,6 +6,6 @@ for(let i = 0; i < spaceShip.length; i++){
     if(spaceShip[i] === charToReplace){
         newSpaceship += replacementChar
     }else{
-        newSpaceship += spaceShip[i]
+      return  newSpaceship += spaceShip[i]
     }
 }

@@ -85,4 +85,10 @@ arr.forEach((item) =>{
 })
 console.log({arr, itens})
 
+//acessar o ultimo elemento de um array
+console.log(arr[arr.length -1])
+
+var arr = ['oo']
+arr.join()
+
 
