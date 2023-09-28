@@ -110,3 +110,4 @@ while (numerosGerados.length < 5) {
     console.log("Número gerado: " + numero);
   }
 }
+

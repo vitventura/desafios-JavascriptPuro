@@ -1,5 +1,5 @@
 
-/*
+
 var vitor = 'vitor'
 var ola;
 ola = vitor //ola passa a ter o valor de vitor
@@ -126,7 +126,7 @@ u+=x
    console.log(nominator + "equivale a " + result*100 + "% de" + denominator)
  }
  percentage(30, 50)
-*/
+
 
 
  var persons = [
