@@ -1,4 +1,4 @@
-/*function sigla (estado){
+function sigla (estado){
   const estados = {
     'santa': 'sc',
     'bahia': 'ba',
@@ -10,7 +10,7 @@ sigla("santa")
 const values = 'virtror'.split()
 console.log(values)
 let value = values.replace().reverse()
-*/
+
 function small_largest(numbers)
 
 {
